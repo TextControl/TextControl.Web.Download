@@ -1,6 +1,6 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="tx_download_ribbon.index" %>
 
-<%@ Register Assembly="TXTextControl.Web, Version=23.0.300.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638" Namespace="TXTextControl.Web" TagPrefix="cc1" %>
+<%@ Register Assembly="TXTextControl.Web, Version=30.0.1000.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638" Namespace="TXTextControl.Web" TagPrefix="cc1" %>
 
 <!DOCTYPE html>
 
